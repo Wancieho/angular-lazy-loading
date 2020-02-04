@@ -12,8 +12,5 @@ import { ContactRoutingModule } from './contact-routing.module';
     CommonModule,
     ContactRoutingModule,
   ],
-  exports: [
-    ContactComponent,
-  ],
 })
 export class ContactModule { }
